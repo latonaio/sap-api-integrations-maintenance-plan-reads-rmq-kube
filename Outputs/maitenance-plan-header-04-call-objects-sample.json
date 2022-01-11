@@ -1,0 +1,118 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-maintenance-plan-reads/SAP_API_Caller/caller.go#L74",
+	"function": "sap-api-integrations-maintenance-plan-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCallNumber": 1,
+			"MaintenanceItem": "1",
+			"MaintenanceOrder": "4000000",
+			"MaintenanceNotification": "10000002",
+			"ServiceOrder": "",
+			"MaintCallHorizonIsNotReached": false,
+			"SchedulingStatus": "",
+			"PlannedStartDate": ""
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCallNumber": 2,
+			"MaintenanceItem": "1",
+			"MaintenanceOrder": "",
+			"MaintenanceNotification": "",
+			"ServiceOrder": "",
+			"MaintCallHorizonIsNotReached": true,
+			"SchedulingStatus": "",
+			"PlannedStartDate": "/Date(1503619200000)/"
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCallNumber": 3,
+			"MaintenanceItem": "1",
+			"MaintenanceOrder": "",
+			"MaintenanceNotification": "",
+			"ServiceOrder": "",
+			"MaintCallHorizonIsNotReached": true,
+			"SchedulingStatus": "",
+			"PlannedStartDate": "/Date(1506211200000)/"
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCallNumber": 4,
+			"MaintenanceItem": "1",
+			"MaintenanceOrder": "",
+			"MaintenanceNotification": "",
+			"ServiceOrder": "",
+			"MaintCallHorizonIsNotReached": true,
+			"SchedulingStatus": "",
+			"PlannedStartDate": "/Date(1508803200000)/"
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCallNumber": 5,
+			"MaintenanceItem": "1",
+			"MaintenanceOrder": "",
+			"MaintenanceNotification": "",
+			"ServiceOrder": "",
+			"MaintCallHorizonIsNotReached": true,
+			"SchedulingStatus": "",
+			"PlannedStartDate": "/Date(1511395200000)/"
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCallNumber": 6,
+			"MaintenanceItem": "1",
+			"MaintenanceOrder": "",
+			"MaintenanceNotification": "",
+			"ServiceOrder": "",
+			"MaintCallHorizonIsNotReached": true,
+			"SchedulingStatus": "",
+			"PlannedStartDate": "/Date(1513987200000)/"
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCallNumber": 7,
+			"MaintenanceItem": "1",
+			"MaintenanceOrder": "",
+			"MaintenanceNotification": "",
+			"ServiceOrder": "",
+			"MaintCallHorizonIsNotReached": true,
+			"SchedulingStatus": "",
+			"PlannedStartDate": "/Date(1516579200000)/"
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCallNumber": 8,
+			"MaintenanceItem": "1",
+			"MaintenanceOrder": "",
+			"MaintenanceNotification": "",
+			"ServiceOrder": "",
+			"MaintCallHorizonIsNotReached": true,
+			"SchedulingStatus": "",
+			"PlannedStartDate": "/Date(1519171200000)/"
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCallNumber": 9,
+			"MaintenanceItem": "1",
+			"MaintenanceOrder": "",
+			"MaintenanceNotification": "",
+			"ServiceOrder": "",
+			"MaintCallHorizonIsNotReached": true,
+			"SchedulingStatus": "",
+			"PlannedStartDate": "/Date(1521763200000)/"
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCallNumber": 10,
+			"MaintenanceItem": "1",
+			"MaintenanceOrder": "",
+			"MaintenanceNotification": "",
+			"ServiceOrder": "",
+			"MaintCallHorizonIsNotReached": true,
+			"SchedulingStatus": "",
+			"PlannedStartDate": "/Date(1524355200000)/"
+		}
+	],
+	"time": "2022-01-11T19:34:08.967616+09:00"
+}

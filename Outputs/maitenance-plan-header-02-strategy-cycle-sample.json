@@ -1,0 +1,44 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-maintenance-plan-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-maintenance-plan-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCycle": "1",
+			"MaintenanceStrategy": "EM_01",
+			"MaintPlanCycRcrrcIntervalQty": "1E0",
+			"MaintPlanCycRcrrcIntervalUnit": "MON",
+			"MaintPlanCycleDesc": "Monthly",
+			"MaintPlanCycleStartOffsetValue": "0"
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCycle": "2",
+			"MaintenanceStrategy": "EM_01",
+			"MaintPlanCycRcrrcIntervalQty": "3E0",
+			"MaintPlanCycRcrrcIntervalUnit": "MON",
+			"MaintPlanCycleDesc": "Quarterly",
+			"MaintPlanCycleStartOffsetValue": "0"
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCycle": "3",
+			"MaintenanceStrategy": "EM_01",
+			"MaintPlanCycRcrrcIntervalQty": "6E0",
+			"MaintPlanCycRcrrcIntervalUnit": "MON",
+			"MaintPlanCycleDesc": "Half-yearly",
+			"MaintPlanCycleStartOffsetValue": "0"
+		},
+		{
+			"MaintenancePlan": "1",
+			"MaintenancePlanCycle": "4",
+			"MaintenanceStrategy": "EM_01",
+			"MaintPlanCycRcrrcIntervalQty": "1.2E1",
+			"MaintPlanCycRcrrcIntervalUnit": "MON",
+			"MaintPlanCycleDesc": "Yearly",
+			"MaintPlanCycleStartOffsetValue": "0"
+		}
+	],
+	"time": "2021-12-28T18:30:39.10312+09:00"
+}
