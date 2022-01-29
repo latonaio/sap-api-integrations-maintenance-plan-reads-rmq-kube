@@ -122,7 +122,7 @@ func (c *SAPAPICaller) AsyncGetMaintenancePlan(maintenancePlan string, accepter 
 }
 ```
 ## Output  
-本マイクロサービスでは、[golang-logging-library](https://github.com/latonaio/golang-logging-library) により、以下のようなデータがJSON形式で出力されます。  
+本マイクロサービスでは、[golang-logging-library-for-sap](https://github.com/latonaio/golang-logging-library-for-sap) により、以下のようなデータがJSON形式で出力されます。  
 以下の sample.json の例は、SAP 保全計画　の　ヘッダデータ が取得された結果の JSON の例です。  
 以下の項目のうち、"MaintenancePlan" ～ "to_Item" は、/SAP_API_Output_Formatter/type.go 内 の Type Header {} による出力結果です。"cursor" ～ "time"は、golang-logging-library による 定型フォーマットの出力結果です。  
 
@@ -135,8 +135,8 @@ func (c *SAPAPICaller) AsyncGetMaintenancePlan(maintenancePlan string, accepter 
 		{
 			"MaintenancePlan": "1",
 			"MaintenancePlanDesc": "Mechanical Inspection for Pump",
-			"CreationDate": "/Date(1498435200000)/",
-			"LastChangeDate": "/Date(1498435200000)/",
+			"CreationDate": "2017-06-26T09:00:00+09:00",
+			"LastChangeDate": "2017-06-26T09:00:00+09:00",
 			"MaintenanceStrategy": "EM_01",
 			"SchedulingDuration": "360",
 			"SchedulingDurationUnit": "DAY",
@@ -147,7 +147,7 @@ func (c *SAPAPICaller) AsyncGetMaintenancePlan(maintenancePlan string, accepter 
 			"MaintenanceCall": 12,
 			"MaintenancePlanCategory": "PM",
 			"MaintPlanFreeDefinedAttrib": "",
-			"BasicStartDate": "/Date(1498435200000)/",
+			"BasicStartDate": "2017-06-26T09:00:00+09:00",
 			"SchedulingStartDate": "",
 			"SchedulingStartTime": "PT00H00M00S",
 			"MaintPlanStartCntrReadingValue": "",
@@ -167,11 +167,9 @@ func (c *SAPAPICaller) AsyncGetMaintenancePlan(maintenancePlan string, accepter 
 			"MaintenancePlanCallObject": "",
 			"MaintenancePlanSystemStatus": "I0001",
 			"to_StrategyCycle": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_MAINTENANCEPLAN/MaintenancePlan('1')/to_StrategyCycle",
-			"to_MaintenanceCycle": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_MAINTENANCEPLAN/MaintenancePlan('1')/to_MaintenanceCycle",
 			"to_Item": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_MAINTENANCEPLAN/MaintenancePlan('1')/to_Item"
 		}
 	],
-	"time": "2021-12-28T18:30:38.683686+09:00"
+	"time": "2022-01-28T17:10:39+09:00"
 }
-
 ```

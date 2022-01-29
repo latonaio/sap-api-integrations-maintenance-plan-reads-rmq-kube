@@ -23,7 +23,7 @@
 			"ServiceOrder": "",
 			"MaintCallHorizonIsNotReached": true,
 			"SchedulingStatus": "",
-			"PlannedStartDate": "/Date(1503619200000)/"
+			"PlannedStartDate": "2017-08-25T09:00:00+09:00"
 		},
 		{
 			"MaintenancePlan": "1",
@@ -34,7 +34,7 @@
 			"ServiceOrder": "",
 			"MaintCallHorizonIsNotReached": true,
 			"SchedulingStatus": "",
-			"PlannedStartDate": "/Date(1506211200000)/"
+			"PlannedStartDate": "2017-09-24T09:00:00+09:00"
 		},
 		{
 			"MaintenancePlan": "1",
@@ -45,7 +45,7 @@
 			"ServiceOrder": "",
 			"MaintCallHorizonIsNotReached": true,
 			"SchedulingStatus": "",
-			"PlannedStartDate": "/Date(1508803200000)/"
+			"PlannedStartDate": "2017-10-24T09:00:00+09:00"
 		},
 		{
 			"MaintenancePlan": "1",
@@ -56,7 +56,7 @@
 			"ServiceOrder": "",
 			"MaintCallHorizonIsNotReached": true,
 			"SchedulingStatus": "",
-			"PlannedStartDate": "/Date(1511395200000)/"
+			"PlannedStartDate": "2017-11-23T09:00:00+09:00"
 		},
 		{
 			"MaintenancePlan": "1",
@@ -67,7 +67,7 @@
 			"ServiceOrder": "",
 			"MaintCallHorizonIsNotReached": true,
 			"SchedulingStatus": "",
-			"PlannedStartDate": "/Date(1513987200000)/"
+			"PlannedStartDate": "2017-12-23T09:00:00+09:00"
 		},
 		{
 			"MaintenancePlan": "1",
@@ -78,7 +78,7 @@
 			"ServiceOrder": "",
 			"MaintCallHorizonIsNotReached": true,
 			"SchedulingStatus": "",
-			"PlannedStartDate": "/Date(1516579200000)/"
+			"PlannedStartDate": "2018-01-22T09:00:00+09:00"
 		},
 		{
 			"MaintenancePlan": "1",
@@ -89,7 +89,7 @@
 			"ServiceOrder": "",
 			"MaintCallHorizonIsNotReached": true,
 			"SchedulingStatus": "",
-			"PlannedStartDate": "/Date(1519171200000)/"
+			"PlannedStartDate": "2018-02-21T09:00:00+09:00"
 		},
 		{
 			"MaintenancePlan": "1",
@@ -100,7 +100,7 @@
 			"ServiceOrder": "",
 			"MaintCallHorizonIsNotReached": true,
 			"SchedulingStatus": "",
-			"PlannedStartDate": "/Date(1521763200000)/"
+			"PlannedStartDate": "2018-03-23T09:00:00+09:00"
 		},
 		{
 			"MaintenancePlan": "1",
@@ -111,8 +111,8 @@
 			"ServiceOrder": "",
 			"MaintCallHorizonIsNotReached": true,
 			"SchedulingStatus": "",
-			"PlannedStartDate": "/Date(1524355200000)/"
+			"PlannedStartDate": "2018-04-22T09:00:00+09:00"
 		}
 	],
-	"time": "2022-01-11T19:34:08.967616+09:00"
+	"time": "2022-01-28T17:10:45+09:00"
 }
